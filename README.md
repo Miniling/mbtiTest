@@ -4,6 +4,6 @@ LikeLion 10th Univ. Front mini project
 
 
 #Nelify
-> Web Server release Program.
+> Web Server distribute Program.
 > <br>
-> Page released by Nelify.
+> Page distributed by Nelify.
